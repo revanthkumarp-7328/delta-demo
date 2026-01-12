@@ -3,4 +3,4 @@
 This is demo for git &amp; github classes.
 
 #Teacher
-Revanth Kumar
+Pathakamuri Revanth Kumar
